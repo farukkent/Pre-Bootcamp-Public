@@ -136,8 +136,3 @@ while(num <= 10) {
   console.log(num)
   num++
 }
-
-// Rule of thumb - for loops are for when you know how many times your loop will run and while loops are for when you do not.
-
-// CHALLENGE:
-// Rewrite all previous for loops as while loops.
