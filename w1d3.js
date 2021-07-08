@@ -102,6 +102,7 @@ for(var i = 1; i <= 255; i++) {
 }
 
 
+
 //with While
 
 
@@ -111,12 +112,15 @@ console.log("All odd integers from 1 to 255 with modulo")
 var num = 1
 while(num <= 255) 
 {
-  if(num % 2 != 0)
+  if(num % 2 != 0){
 
   console.log(num)
+  }
   num++
 
 }
+
+
 
 
 
